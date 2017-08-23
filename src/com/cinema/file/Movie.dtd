@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT MovieList (Movie+)>
+<!ELEMENT Movie (Name,Poster,Director,Actors,Type,Price,Schedule)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Poster (#PCDATA)> 
+<!ELEMENT Director (#PCDATA)>
+<!ELEMENT Actors (Actor+)>
+<!ELEMENT Actor (#PCDATA)>
+<!ELEMENT Type (#PCDATA)> 
+<!ELEMENT Price (#PCDATA)> 
+<!ELEMENT Schedule (Item+)>
+<!ELEMENT Item (#PCDATA)>

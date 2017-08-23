@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MovieList SYSTEM "Movie.dtd">
+	<MovieList>
+		<Movie>
+			<Name>战狼2</Name>
+			<Poster>Wolf Warriors Ⅱ</Poster>
+			<Director>吴京</Director>
+			<Actors>
+				<Actor>吴京</Actor>
+				<Actor>吴刚</Actor>
+				<Actor>卢靖姗</Actor>
+			</Actors>
+			<Type>动作、军事</Type>
+			<Price>51</Price>
+			<Schedule>
+				<Item>9:00</Item>
+				<Item>10:30</Item>
+				<Item>13:00</Item>
+			</Schedule>
+		</Movie>
+	</MovieList>
